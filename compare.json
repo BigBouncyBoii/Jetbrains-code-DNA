@@ -1,0 +1,16 @@
+{
+  "aPath" : "/mnt/c/Users/James Loke/OneDrive/Desktop/Year2Projects/jetbrainsfingerprint/data/example1.jar",
+  "bPath" : "/mnt/c/Users/James Loke/OneDrive/Desktop/Year2Projects/jetbrainsfingerprint/data/example2.jar",
+  "aEntryCount" : 1142,
+  "bEntryCount" : 16,
+  "aTotalSize" : 5479056,
+  "bTotalSize" : 14318,
+  "commonEntryCount" : 16,
+  "unionEntryCount" : 1142,
+  "jaccard" : 0.014010507880910683,
+  "commonEntries" : [ "META-INF/maven/com.example/", "com/example/jetbrainscli/ArtifactReport.class", "META-INF/maven/com.example/jetbrains-cli/", "com/example/jetbrainscli/EntryRecord.class", "META-INF/MANIFEST.MF", "META-INF/maven/", "com/example/jetbrainscli/", "com/example/", "com/example/jetbrainscli/Main.class", "META-INF/", "com/example/jetbrainscli/CompareTool.class", "META-INF/maven/com.example/jetbrains-cli/pom.xml", "com/", "com/example/jetbrainscli/ArtifactAnalyzer.class", "com/example/jetbrainscli/CompareTool$ComparisonReport.class", "META-INF/maven/com.example/jetbrains-cli/pom.properties" ],
+  "commonByHashCount" : 8,
+  "unionByHashCount" : 1067,
+  "hashJaccard" : 0.007497656982193065,
+  "commonHashes" : [ "0c0a03072d2dec2e0b439c6ce106e1d293bc94da8e585fc1169da5591989b0eb", "2e6c3ce81680c9a08e985005c491a982735a4aa81831ceababd8d4bc78df9785", "140cfdbe9caef0ec43bbca102a88c458e8d0938a51c78df788b613c1cb9d580b", "f400ce1220d62f4421364a86e4df13edef4bd250aceba575a6e2ba1816a4cebd", "3a2aaf25bff9dafbf125a89cc7b515c01a385dd87f3fc99b6998d927d288d88b", "94b1df9b2fbc5258994a3a90714c3c8c0e73ba8b772fc352d25405a75da8781d", "bc45f90c4f368d2d5d743ca06178cc0b26d8580170fa2cfd8479b7170b267d3a", "e8ef7a3816bce1af6edf5dc9109964da624524146d8e74b74175ca2a02700f69" ]
+}

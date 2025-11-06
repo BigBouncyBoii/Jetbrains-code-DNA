@@ -1,0 +1,134 @@
+{
+  "artifactPath" : "/mnt/c/Users/James Loke/OneDrive/Desktop/Year2Projects/jetbrainsfingerprint/data/example2.jar",
+  "totalSize" : 14318,
+  "entryCount" : 16,
+  "entries" : [ {
+    "name" : "META-INF/",
+    "size" : 0,
+    "compressedSize" : 0,
+    "crc" : 0,
+    "isDirectory" : true,
+    "time" : 1762443898000,
+    "hmac" : null
+  }, {
+    "name" : "META-INF/MANIFEST.MF",
+    "size" : 81,
+    "compressedSize" : 83,
+    "crc" : 4062316986,
+    "isDirectory" : false,
+    "time" : 1762443898000,
+    "hmac" : "46a7c658bbf4f4907328acbaaba072485364a02cfce1577e300536e0394ea256"
+  }, {
+    "name" : "com/",
+    "size" : 0,
+    "compressedSize" : 0,
+    "crc" : 0,
+    "isDirectory" : true,
+    "time" : 1762443890000,
+    "hmac" : null
+  }, {
+    "name" : "com/example/",
+    "size" : 0,
+    "compressedSize" : 0,
+    "crc" : 0,
+    "isDirectory" : true,
+    "time" : 1762443890000,
+    "hmac" : null
+  }, {
+    "name" : "com/example/jetbrainscli/",
+    "size" : 0,
+    "compressedSize" : 0,
+    "crc" : 0,
+    "isDirectory" : true,
+    "time" : 1762443890000,
+    "hmac" : null
+  }, {
+    "name" : "META-INF/maven/",
+    "size" : 0,
+    "compressedSize" : 0,
+    "crc" : 0,
+    "isDirectory" : true,
+    "time" : 1762443898000,
+    "hmac" : null
+  }, {
+    "name" : "META-INF/maven/com.example/",
+    "size" : 0,
+    "compressedSize" : 0,
+    "crc" : 0,
+    "isDirectory" : true,
+    "time" : 1762443898000,
+    "hmac" : null
+  }, {
+    "name" : "META-INF/maven/com.example/jetbrains-cli/",
+    "size" : 0,
+    "compressedSize" : 0,
+    "crc" : 0,
+    "isDirectory" : true,
+    "time" : 1762443898000,
+    "hmac" : null
+  }, {
+    "name" : "com/example/jetbrainscli/ArtifactAnalyzer.class",
+    "size" : 2154,
+    "compressedSize" : 1109,
+    "crc" : 722261299,
+    "isDirectory" : false,
+    "time" : 1762443890000,
+    "hmac" : "3a2aaf25bff9dafbf125a89cc7b515c01a385dd87f3fc99b6998d927d288d88b"
+  }, {
+    "name" : "com/example/jetbrainscli/ArtifactReport.class",
+    "size" : 1093,
+    "compressedSize" : 642,
+    "crc" : 2851414535,
+    "isDirectory" : false,
+    "time" : 1762443890000,
+    "hmac" : "f400ce1220d62f4421364a86e4df13edef4bd250aceba575a6e2ba1816a4cebd"
+  }, {
+    "name" : "com/example/jetbrainscli/CompareTool$ComparisonReport.class",
+    "size" : 775,
+    "compressedSize" : 425,
+    "crc" : 682119255,
+    "isDirectory" : false,
+    "time" : 1762443890000,
+    "hmac" : "e8ef7a3816bce1af6edf5dc9109964da624524146d8e74b74175ca2a02700f69"
+  }, {
+    "name" : "com/example/jetbrainscli/CompareTool.class",
+    "size" : 2382,
+    "compressedSize" : 1195,
+    "crc" : 1487727403,
+    "isDirectory" : false,
+    "time" : 1762443890000,
+    "hmac" : "140cfdbe9caef0ec43bbca102a88c458e8d0938a51c78df788b613c1cb9d580b"
+  }, {
+    "name" : "com/example/jetbrainscli/EntryRecord.class",
+    "size" : 715,
+    "compressedSize" : 448,
+    "crc" : 4170477873,
+    "isDirectory" : false,
+    "time" : 1762443890000,
+    "hmac" : "0c0a03072d2dec2e0b439c6ce106e1d293bc94da8e585fc1169da5591989b0eb"
+  }, {
+    "name" : "com/example/jetbrainscli/Main.class",
+    "size" : 4953,
+    "compressedSize" : 2418,
+    "crc" : 2255747408,
+    "isDirectory" : false,
+    "time" : 1762443890000,
+    "hmac" : "2e6c3ce81680c9a08e985005c491a982735a4aa81831ceababd8d4bc78df9785"
+  }, {
+    "name" : "META-INF/maven/com.example/jetbrains-cli/pom.xml",
+    "size" : 2106,
+    "compressedSize" : 587,
+    "crc" : 4127574701,
+    "isDirectory" : false,
+    "time" : 1762443724000,
+    "hmac" : "94b1df9b2fbc5258994a3a90714c3c8c0e73ba8b772fc352d25405a75da8781d"
+  }, {
+    "name" : "META-INF/maven/com.example/jetbrains-cli/pom.properties",
+    "size" : 59,
+    "compressedSize" : 60,
+    "crc" : 1137130842,
+    "isDirectory" : false,
+    "time" : 1762443896000,
+    "hmac" : "bc45f90c4f368d2d5d743ca06178cc0b26d8580170fa2cfd8479b7170b267d3a"
+  } ]
+}
